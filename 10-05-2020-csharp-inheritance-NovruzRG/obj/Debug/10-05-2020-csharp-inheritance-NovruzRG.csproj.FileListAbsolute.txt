@@ -1,0 +1,7 @@
+C:\Users\MrUnknown\source\repos\10-05-2020-csharp-inheritance-NovruzRG\10-05-2020-csharp-inheritance-NovruzRG\bin\Debug\10-05-2020-csharp-inheritance-NovruzRG.exe.config
+C:\Users\MrUnknown\source\repos\10-05-2020-csharp-inheritance-NovruzRG\10-05-2020-csharp-inheritance-NovruzRG\bin\Debug\10-05-2020-csharp-inheritance-NovruzRG.exe
+C:\Users\MrUnknown\source\repos\10-05-2020-csharp-inheritance-NovruzRG\10-05-2020-csharp-inheritance-NovruzRG\bin\Debug\10-05-2020-csharp-inheritance-NovruzRG.pdb
+C:\Users\MrUnknown\source\repos\10-05-2020-csharp-inheritance-NovruzRG\10-05-2020-csharp-inheritance-NovruzRG\obj\Debug\10-05-2020-csharp-inheritance-NovruzRG.csprojAssemblyReference.cache
+C:\Users\MrUnknown\source\repos\10-05-2020-csharp-inheritance-NovruzRG\10-05-2020-csharp-inheritance-NovruzRG\obj\Debug\10-05-2020-csharp-inheritance-NovruzRG.csproj.CoreCompileInputs.cache
+C:\Users\MrUnknown\source\repos\10-05-2020-csharp-inheritance-NovruzRG\10-05-2020-csharp-inheritance-NovruzRG\obj\Debug\10-05-2020-csharp-inheritance-NovruzRG.exe
+C:\Users\MrUnknown\source\repos\10-05-2020-csharp-inheritance-NovruzRG\10-05-2020-csharp-inheritance-NovruzRG\obj\Debug\10-05-2020-csharp-inheritance-NovruzRG.pdb
