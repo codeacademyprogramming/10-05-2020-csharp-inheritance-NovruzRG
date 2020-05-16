@@ -19,27 +19,20 @@ namespace _10_05_2020_csharp_inheritance_NovruzRG
             {
                 case "basic":
                     docProgram = new DocumentProgram();
-                    docProgram.OpenDocument();
-                    docProgram.EditDocument();
-                    docProgram.SaveDocument();
                     break;
                 case "pro":
                     docProgram = new ProDocumentProgram();
-                    docProgram.OpenDocument(); 
-                    docProgram.EditDocument();
-                    docProgram.SaveDocument();
                     break;
                 case "expert":
                     docProgram = new ExpertDocument();
-                    docProgram.OpenDocument();
-                    docProgram.EditDocument();
-                    docProgram.SaveDocument();
                     break;
                 default:
                     Console.WriteLine("Wrong mode");
                     break;
             }
-
+            docProgram.OpenDocument();
+            docProgram.EditDocument();
+            docProgram.SaveDocument();
         }
 
 
